@@ -1,0 +1,3 @@
+# Присваиваем переменной строковое значение
+ var = 'Python in easy steps'
+ print( var )
